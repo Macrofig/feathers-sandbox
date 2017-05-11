@@ -15,7 +15,9 @@
     "feathers": "^2.0.3",
     "body-parser": "^1.16.1",
     "feathers-memory": "^1.1.0",
-    "feathers-rest": "^1.6.0"
+    "feathers-rest": "^1.6.0",
+    "feathers-hooks": "^1.7.1",
+    "feathers-hooks-common": "^2.0.3"
 	},
 	"engines": {
 		"node": "4.4.5"
